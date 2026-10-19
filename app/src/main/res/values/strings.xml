@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Timbangan Digital</string>
+    <string name="scale_tab_measure">Timbang</string>
+    <string name="scale_tab_characters">Karakter</string>
+    <string name="scale_tab_history">Riwayat</string>
+    <string name="scale_title">Timbangan Badan Digital</string>
+    <string name="step_on_scale">Tekan untuk Mulai Timbang</string>
+    <string name="save_measurement">Simpan Hasil Timbangan</string>
+    <string name="character_title">Karakter Anggota Keluarga</string>
+    <string name="add_character">Tambah Karakter</string>
+    <string name="upload_photo">Unggah Foto</string>
+</resources>

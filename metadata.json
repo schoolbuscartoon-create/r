@@ -1,0 +1,6 @@
+{
+  "name": "Timbangan Digital",
+  "description": "Aplikasi timbangan badan digital lengkap dengan kalkulator BMI, profil karakter keluarga, pencatatan waktu & tanggal, serta unggah foto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
